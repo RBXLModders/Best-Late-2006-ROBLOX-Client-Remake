@@ -1,15 +1,5 @@
-
- 
- _____________________________________________________________________
-|                            Introduction                             |
-|_____________________________________________________________________|
-|   Welcome to the Best Late 2006 ROBLOX Client Remake README File!   |
-|             Instructions to use the client are below...             |
- ---------------------------------------------------------------------
-
- -----------------
-|   How To Play   |
- -----------------
+How to play
+-
  1. Download The Client and open "Roblox.exe"
  2. Go to the top and Press "File"
  3. Press "Open"
