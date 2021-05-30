@@ -3,7 +3,7 @@ How to play
  1. Download The Client and open "Roblox.exe"
  2. Go to the top and Press "File"
  3. Press "Open"
- 4. Now for this you will need a .rbxl file that was saved in a Older Client (any client before 2012)
+ 4. Now for this you will need a .rbxl file that was saved in a Older Client (any client before 2014)
  5. To get some .rbxl files you can get them from https://mega.nz/folder/fdJizTwa (to the people that have the encryption key thing pop up enter this into the box "6Tf1_x90O78iawPIReLJtw")
  6. Then go and download the .rbxl files
  7. Again open the client from the folder you extracted it to (if you closed the window)
