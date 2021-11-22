@@ -6,11 +6,11 @@ So uhh. Its just a really good 2006 remake made by some lazy ass guy that lives 
 
 
 Credits :
-StackOverflow
-CloneTrooper1019
-micro
-RBXLModders
-Resource Hacker
+StackOverflow,
+CloneTrooper1019,
+micro,
+RBXLModders,
+Resource Hacker,
 HxD
 
 and thats pretty much it
